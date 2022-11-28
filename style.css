@@ -83,7 +83,7 @@ body{
     transition: .3s ease-in-out;
 }
 .sidebar nav .nav-item.active{
-    background: #ff3432 !important;
+    background: #1e1e1a !important;
 }
 .sidebar nav .nav-item:hover{
     background: rgba(255, 255, 255, 0.10);
@@ -126,7 +126,7 @@ body{
     text-align: center;
     border-radius: 50%;
     padding: 2px 0 2px 2px;
-    background: #ff3432;
+    background: #1e1e1a;
     border: solid antiquewhite 1px;
 }
 .sidebar.open .toggle{
